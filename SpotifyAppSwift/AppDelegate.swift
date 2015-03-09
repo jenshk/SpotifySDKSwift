@@ -1,10 +1,7 @@
 //
 //  AppDelegate.swift
 //  Spotify Swift
-//
-//  Created by Vedran Ozir on 09/02/15.
-//  Copyright (c) 2015 Vedran Ozir. All rights reserved.
-//
+
 
 import UIKit
 

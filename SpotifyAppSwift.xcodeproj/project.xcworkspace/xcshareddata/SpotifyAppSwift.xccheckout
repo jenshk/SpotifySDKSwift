@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91E0FD95-6AAD-4435-9EB0-2440447973E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpotifyAppSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D61D7B3C2DD4A68070D249AA68ED9663597C1324</key>
+		<string>https://github.com/mattzwol/SpotifySDKSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpotifyAppSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D61D7B3C2DD4A68070D249AA68ED9663597C1324</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mattzwol/SpotifySDKSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D61D7B3C2DD4A68070D249AA68ED9663597C1324</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D61D7B3C2DD4A68070D249AA68ED9663597C1324</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpotifySDKSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>

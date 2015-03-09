@@ -1,10 +1,8 @@
 //
 //  SpotifyAppSwift-Bridging-Header.h
 //  SpotifyAppSwift
-//
-//  Created by Matthew Zwolenski on 24/01/2015.
-//  Copyright (c) 2015 Matthew Zwolenski. All rights reserved.
-//
+
+
 
 #import <Spotify/Spotify.h>
 
